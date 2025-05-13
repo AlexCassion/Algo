@@ -1,0 +1,29 @@
+Random Data:
+1 orig
+Execution time: 0.0001176000 seconds
+Total number of comparisons: 917
+1 impro
+Number of comparisons: 660
+Execution time: 0.0000967000 seconds
+Sorted (Increasing Order)
+2 orig 
+Execution time: 0.0009154000 seconds
+Total number of comparisons: 4950
+impro 
+Number of comparisons: 516
+Execution time: 0.0000830000 seconds
+
+Reverse-Sorted (Decreasing Order):
+3 orig
+ Execution time: 0.0004793000 seconds
+Total number of comparisons: 4950
+3 impro 
+Number of comparisons: 679
+Execution time: 0.0001620000 seconds
+Duplicate-Heavy (Arrays with Repeated Elements):
+4 orig 
+Execution time: 0.0001119000 seconds
+Total number of comparisons: 933
+4 impro 
+Number of comparisons: 930
+Execution time: 0.0001214000 seconds

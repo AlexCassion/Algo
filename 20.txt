@@ -1,0 +1,29 @@
+random Code
+Orignal = 0.0000172000 seconds
+Comparison = 69
+
+Improved= 0.0000280000 seconds
+Comparison = 76
+
+
+Sorted
+Original = 0.0000306000 seconds
+Comp = 190
+
+Impro = 0.0000251000 seconds
+Com = 60
+
+Reverse
+Orginal = 0.0000269000 seconds
+Com= 190
+
+Impro = 0.0000273000 seconds
+com = 98
+
+ Orig Duplicate-Heavy =  0.0000169000 seconds
+ comparisons: 69
+
+Improved
+Execution time: 0.0000212000 seconds
+comparisons: 61
+
